@@ -5,4 +5,5 @@ Benefícios do projeto:
 2. Desenvolvimento de habilidades em HTML e CSS
 3. Experiência na construção de interfaces de usuário atraentes e responsivas.
 
+Link para a página: https://talithamsilva.github.io/clone_tinder/
 
